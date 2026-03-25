@@ -1,4 +1,3 @@
-```
 #### SETUP :: STM32
 FILE STRUCTURE:
 ```
